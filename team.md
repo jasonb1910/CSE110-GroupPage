@@ -24,7 +24,7 @@
 4. **Sean Fuhrman (*Designer*)**
    - About me: *"Hi, I'm Sean. I am a third year Computer Engineering major, and also a Designer of this team."*
    - Way to contact:
-     - Info: 
+     - Info: [Sean Fuhrman](https://sean-fuhrman.github.io/CSE110_Lab1/)
      - Email: *stfuhrma@ucsd.edu*
 5. **Kathy Chen (*Developer*)**
    - About me: *"Hi, I’m Kathy! I’m a second year Computer Science major, and also one of the Developers of this team."*
