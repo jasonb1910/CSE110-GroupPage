@@ -29,7 +29,7 @@
 5. **Kathy Chen (*Developer*)**
    - About me: *"Hi, I’m Kathy! I’m a second year Computer Science major, and also one of the Developers of this team."*
    - Way to contact:
-     - Info: 
+     - Info: [Kathy Chen](https://kathyychenn.github.io/CSE110-Lab1/)
      - Email: *ktchen@ucsd.edu*
 6. **Trisha Tong (*Developer*)**
    - About me: *"Hi! I’m Trisha. I’m a second year Computer Science major, and also one of the Developers of this team."*
